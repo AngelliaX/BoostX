@@ -1,0 +1,13 @@
+name: BoostX
+version: 1
+main: tungst_boostX\Main
+api: 3.0.0
+author: TungstenVn
+
+commands:
+ buyb:
+  description: "BoostX"
+  use: /buyb
+ boostinfo:
+  description: "BoostX"
+  use: /boostinfo
